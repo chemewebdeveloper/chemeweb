@@ -1,0 +1,182 @@
+
+
+
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+  
+#boxes .window {
+  position:fixed;
+  left:0;
+  top:10px;
+  width:440px;
+  height:2px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+  border: 3px solid #369;
+}
+
+#boxes .window h2{color:#036}
+#boxes .window img{
+float:left; 
+margin-right:20px; 
+margin-bottom:10px;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+}
+
+#boxes #argyle {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png');  
+}
+
+#boxes #baxter {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #bundy {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #cook {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #fletcher {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #harb {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #hecker {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #hedengren {
+  width:620px; 
+  height:650px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #knotts {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #lewis {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #lignell {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #pitt {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #wheeler {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #wilding {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #solen {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #hales {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #rowley {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+#boxes #bartholomew {
+  width:620px; 
+  height:600px;
+  padding:10px;
+  background-color:#ffffff;
+  background-image:url('template/img/body-linen.png'); 
+}
+
+
+
+
+
