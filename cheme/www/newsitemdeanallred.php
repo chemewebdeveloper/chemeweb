@@ -60,7 +60,7 @@
 		<div id="main-content" style="width:620px;">
 			<h2>Announcing the V. Dean Allred Endowed Mentorship/Scholarship Fund</h2>
 			<h3>April 23rd, 2013</h3>
-			<center> <img src="images\news\Allred Picture.jpg" /> </center>
+			<center> <img src="images/news/Allred.jpg" /> </center>
 		
 			<p>In his memory, the V. Dean Allred family recently endowed a mentorship/scholarship fund for
 			BYU Chemical Engineering students. Dean was an exceptional Chemical Engineer who worked
