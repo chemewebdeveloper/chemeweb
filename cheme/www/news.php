@@ -128,6 +128,7 @@
 		</div>
 		
 		<ul>
+			<li><a href="newsitembundy.php">Dr. Bundy Receives Prestigious Awards</a></li>
 			<li><a href="newsitemdeanallred.php" id="seven">Dean Allred Scholarship Fund</a></li>
 			<li><a href="newsitemchemecar.php" id="seven">BYU ChE Team Wins Car Competition</a></li>
 			<li><a href="newsitemuav.php" id="seven">Flying UAVs</a></li>
