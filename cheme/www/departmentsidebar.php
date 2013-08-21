@@ -13,6 +13,6 @@
 		<li><a href="abet.php">ABET</a></li>
 		<li><a href="safety.php">Safety</a></li>
 		<li><a href="visitus.php">Visit Us</a></li>
-		<li><a href="raapplication.php">RA Application</a></li>
-		<li><a href="taapplication.php">TA Application</a></li>			
+		<!-- <li><a href="raapplication.php">RA Application</a></li>
+		<li><a href="taapplication.php">TA Application</a></li>	 -->		
 		</ul>
