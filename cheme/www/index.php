@@ -9,14 +9,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	
 	<?php
-	$pageTitle= " Home | Chemical Engineering";
-	
-	$pageDescription = "";
-	
-	$pageKeywords = "program, Chemical Engineering, students, Prospective Students, alumni";
-	
-	$embeddedCSS="";
+	$pageTitle = " Home | Chemical Engineering";
 
+	$pageDescription = "";
+
+	$pageKeywords = "program, Chemical Engineering, students, Prospective Students, alumni";
+
+	$embeddedCSS = "";
 	?>
 	
 	<title><?php echo $pageTitle; ?></title>
@@ -108,12 +107,12 @@
  				<h3 style="color:#369">Upcoming Events </h3></a>  
 	 				<ul>
 	 				 				 				
-	 													<li><b>4/25/2013 - Commencement</b>
-	 				 										<br />Marriott Center, 4 PM<br />
+	 													<li><b>10/11/2013 - ChE Alumni Homecoming Banquet</b>
+	 				 										<br />Clyde Building Lounge, 6 PM<br />
 	 				 									</li><br /> 
-														<li><b>4/26/2013 - College of Engineering Convocation</b>
+														<!-- <li><b>4/26/2013 - College of Engineering Convocation</b>
 		 				 										<br />Smith Fieldhouse, 11 AM<br />
-		 				 								</li><br />					
+		 				 								</li><br />		 -->	
 			  	</ul>
 </div> <!-- end upcomingevents -->
 </div> <!-- end calendar -->
