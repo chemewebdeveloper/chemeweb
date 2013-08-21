@@ -110,9 +110,9 @@
 	 													<li><b>10/11/2013 - ChE Alumni Homecoming Banquet</b>
 	 				 										<br />Clyde Building Lounge, 6 PM<br />
 	 				 									</li><br /> 
-														<li><b>4/26/2013 - Mark Laney Party</b>
+														<!-- <li><b>4/26/2013 - Mark Laney Party</b>
 		 				 										<br />Smith Fieldhouse, 11 AM<br />
-		 				 								</li><br />
+		 				 								</li><br /> -->
 		 				 										
 			  	</ul>
 </div> <!-- end upcomingevents -->
