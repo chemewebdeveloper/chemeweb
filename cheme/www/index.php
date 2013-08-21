@@ -38,10 +38,12 @@
 	<link rel="shortcut icon" href="template/img/favicon.ico" />
 	<link rel="stylesheet" href="template/css/style.css" />
 
-	<?php include 'header.php';
-	
-	// Embedded styles 
-	 echo $embeddedCSS; ?>
+	<?php
+	include 'header.php';
+
+	// Embedded styles
+	echo $embeddedCSS;
+ ?>
 	</head>
 <body>
 <div id="content" class="wrapper">
@@ -121,13 +123,22 @@
 			<div class="news-item" id="current">	
 											<ul id="items" style="list-style-type:none"> 
 												<li>
+													<img src="images/news/bundysmall.jpg" width="246" height="157" alt=""/>
+													<h3><a href="newsitembundy.php">Dr. Bundy Receives Prestigious Awards</a></h3>
+													<p>Congratulations to Dr. Bundy on his NSF Career and DARPA Young Investigator awards.</p>
+												</li>
+											</ul>
+			</div>
+			<div  class="news-item omega">
+					<ul id="items" style="list-style-type:none"> 
+												<li>
 													<img src="images/news/uav.jpg" width="246" height="157" alt=""/>
 													<h3><a href="newsitemuav.php">Flying UAVs</a></h3>
 													<p>Dr. Hedengren was part of a group that recently flew Unmanned Aerial Vehicles.</p>
 												</li>
 											</ul>
 			</div>
-			<div  class="news-item omega">
+			<div  class="news-item omega" style="display:none">
 					<ul id="items" style="list-style-type:none"> 
 							<li>
 								<img src="images/news/awards.jpg" width="220" height="157" alt=""/>
