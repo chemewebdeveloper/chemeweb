@@ -112,7 +112,10 @@
 	 				 									</li><br /> 
 														<li><b>4/26/2013 - Mark Laney Party</b>
 		 				 										<br />Smith Fieldhouse, 11 AM<br />
-		 				 								</li><br />		
+		 				 								</li><br />
+		 				 								<li><b>4/26/2013 - Mark Laney Party</b>
+		 				 										<br />Smith Fieldhouse, 11 AM<br />
+		 				 								</li><br />				
 			  	</ul>
 </div> <!-- end upcomingevents -->
 </div> <!-- end calendar -->
