@@ -72,7 +72,7 @@
 	
 	<hr />
        
-    <img src="images/research1.jpg" />
+    <!-- <img src="images/research1.jpg" /> -->
 	
 
 <!-- If you're looking for documentation on how this works - http://blog.lynda.com/2012/02/10/create-a-jquery-photo-rotator-in-15-lines-of-code/ -->
@@ -84,9 +84,9 @@
 	});
 	</script>
 	
-<h2>Learn About Our Different Research Areas.</h2>
+<!-- <h2>Learn About Our Different Research Areas.</h2>
 <p>Our faculty dedicates much of their time to research. Below, you can learn about the various research areas ranging from Biomedical to Reservoir Simulation. Please take some time and read about each of our research areas. </p>
-</h2>
+</h2> -->
 <div id="researchareas" style="display:none">
 <div class="clear" style="height:40px"></div>        
  

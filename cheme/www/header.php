@@ -140,7 +140,7 @@
 						</ul>
 					</div>
 				</li>
-				<li> <a href="">Graduate </a>
+				<li> <a href="">Graduate Program</a>
 					<div class="sub">
 						<ul class="links">
 										<li><a href="grad.php">About</a></li>

@@ -149,15 +149,6 @@
 			   		</ul>
 			</div>
 			<div class="news-item omega" style="display:none">
-						<ul id="items" style="list-style-type:none"> 
-							<li>
-								<img src="images/news/jobopening.png" width="246" height="157" alt=""/>
-								<h3><a href="newsitemjobopening.php">Job Opportunity</a></h3>
-								<p>There is a job opening for the opening for the Assistant Project Coordinator in the DIPPR Lab.</p>	
-							</li>
-						</ul>
-				</div>
-			<div class="news-item omega" style="display:none">
 				<ul id="items" style="list-style-type:none"> 
 					<li>
 						<img src="images/directory/baxter.jpg" width="121" height="157" alt=""/>
