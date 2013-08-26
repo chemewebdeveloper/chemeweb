@@ -1,3 +1,11 @@
+<?php
+
+
+if(!isset($_COOKIE["username"])){
+header("Location: http://cheme.byu.edu/authenticate.php");	
+
+}?>
+
 <!doctype html>
 <!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->

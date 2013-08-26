@@ -66,7 +66,7 @@
 		         $_SESSION['loggedin'] = "true";
 		         // redirect
 		         echo "welcome " . $username;
-		         $url = "http://cheme.byu.edu/jobarchive".$_SESSION['url'];
+		         $url = "http://cheme.byu.edu".$_SESSION['url'];
 		         header("Location: ".$url);
 				setcookie("username",$_POST['username'], time()+3600);
 		   }

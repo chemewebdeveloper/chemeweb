@@ -122,7 +122,7 @@
 						</ul>
 					</div>
 				</li>
-				<li> <a href="">Undergraduate Students</a>
+				<li> <a href="">Undergraduate Program</a>
 					<div class="sub">
 						<ul class="links">
 										<li><a href="majorrequirements.php">Major Requirements</a></li>
@@ -140,7 +140,7 @@
 						</ul>
 					</div>
 				</li>
-				<li> <a href="">Graduate Students</a>
+				<li> <a href="">Graduate </a>
 					<div class="sub">
 						<ul class="links">
 										<li><a href="grad.php">About</a></li>
