@@ -25,7 +25,7 @@
 
 				if(isset($_COOKIE["username"])){
 				
-					$value = "Welcome " . $_COOKIE["username"] . ".";
+					$value = "Welcome " . $_COOKIE["username"];
 					$set = true;
 				}
 				else{
