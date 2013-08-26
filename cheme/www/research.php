@@ -54,7 +54,7 @@
 	<link rel="stylesheet" href="template/css/style.css" />
 	<script src="template/js/libs/jquery-1.7.2.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
+	
 	
 
 	<?php include 'header.php';
@@ -72,9 +72,8 @@
 	
 	<hr />
        
-    <div class="rotator" style="margin-left:20px"><img src="images/research1.jpg" />
-	<img src="images/research3.jpg" />
-	<img src="images/research2.jpg" /></div>
+    <img src="images/research1.jpg" />
+	
 
 <!-- If you're looking for documentation on how this works - http://blog.lynda.com/2012/02/10/create-a-jquery-photo-rotator-in-15-lines-of-code/ -->
 
