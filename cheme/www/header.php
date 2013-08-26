@@ -83,90 +83,9 @@
 		</div>
 
 		<nav id="primary-nav" class="no-js">
-			<ul>
-				 <li><a href="">Department</a>
-					<div class="mega">
-						<ul class="links">
-							<li class="featured">
-								<ul>
-									<li><a href="History.php">About</a></li>
-									<li><a href="news.php">News</a></li>
-								</ul>
-								<hr/>
-							</li>
-										<li><a href="Faculty.php">Faculty</a></li>
-											<ul class="sublinks">
-												<li><a href="#">Sublink 1</a></li>
-											</ul>
-										<li><a href="Staff.php">Staff</a></li>	
-										<li><a href="Students.php">Students</a></li>
-										<li><a href="research.php">Research</a></li>
-										<li><a href="clubs.php">Clubs</a></li>
-										<li><a href="abet.php">ABET</a></li>
-										<li><a href="safety.php">Safety</a></li>
-										<li><a href="visitus.php">Visit Us</a></li>	
-										<li><a href="raapplication.php">RA Application</a></li>		
-										<li><a href="taapplication.php">TA Application</a></li>	 
-										<li><a href="jobarchive.php">Job Archive</a></li>
-						</ul>
-						<div class="highlight"><a href="#"><img src="images/fire.jpg" /></a>
-							<p><a href="research.php">Learn About Our Research</a></p>
-						</div>
-						
-						
-						<!-- <div class="highlight"><a href="#"><span class="img menu2.jpg" title=""></span></a>
-							<p><a href="#">Picture Link</a></p>
-							<p>Text text text text text.</p>
-						</div> -->
-					</div>
-				</li> 
-			<!--	<li><a href="">Double Mega Dropdown Menu</a>
-					<div class="mega">
-						<ul class="links double">
-							<li class="featured">
-								<ul>
-									<li><a href="#">Featured Link 1</a></li>
-									<li><a href="#">Featured Link 2</a></li>
-								</ul>
-								<hr/>
-							</li>
-							<div class="left">
-								<li><a href="#">Link 1</a></li>
-								<li><a href="#">Link 2</a>
-									<ul class="sublinks">
-										<li><a href="#">Sublink 1</a></li>
-										<li><a href="#">Sublink 2</a></li>
-										<li><a href="#">Sublink 3</a></li>
-										<li><a href="#">Sublink 4</a></li>
-										<li><a href="#">Sublink 5</a></li>
-									</ul>
-								</li>
-								<li><a href="#">Link 3</a></li>
-								<li><a href="#">Link 4</a></li>
-								<li><a href="#">Link 5</a></li>
-								<li><a href="#">Link 6</a></li>
-							</div>
-							<div class="left">
-								<li><a href="#">Link 7</a></li>
-								<li><a href="#">Link 8</a></li>
-								<li><a href="#">Link 9</a></li>
-								<li><a href="#">Link 10</a></li>
-								<li><a href="#">Link 11</a></li>
-								<li><a href="#">Link 12</a></li>
-							</div>
-						</ul>
-						<div class="highlight"><a href="#"><span class="img menu1.jpg" title=""></span></a>
-							<p><a href="#">Picture Link</a></p>
-							<p>Text text text text text.</p>
-						</div>
-						<div class="highlight"><a href="#"><span class="img menu2.jpg" title=""></span></a>
-							<p><a href="#">Picture Link</a></p>
-							<p>Text text text text text.</p>
-						</div>
-					</div>
-				</li> -->
-				<!-- <li> <a href="">Department</a>
-					<div class="sub">
+			<ul>	
+						<li> <a href="">Department</a>
+						<div class="sub">
 						<ul class="links">
 										<li><a href="History.php">About</a></li>
 										<li><a href="Faculty.php">Faculty</a></li>
@@ -183,7 +102,7 @@
 										<li><a href="jobarchive.php">Job Archive</a></li>
 						</ul>
 					</div>
-				</li>  -->
+				</li> 
 				<li> <a href="">Prospective Students</a>
 					<div class="sub">
 						<ul class="links">
