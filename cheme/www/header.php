@@ -148,7 +148,7 @@
 										<li><a href="graduateseminar.php">Seminar Schedule</a></li>
 										<li><a href="ADV_Form_8_2011-2012.pdf">Program Deadlines</a></li>
 										<li><a href="nationalgradfellowship.php">Fellowships</a></li>
-										<li><a href="gradresearch.php">Research</a></li>
+										<li><a href="research.php">Research</a></li>
 										<li><a href="	http://graduatestudies.byu.edu/node/2337?qt-departments_quicktab=3#qt-departments_quicktab">Graduate Courses</a></li>
 						</ul>
 					</div>
