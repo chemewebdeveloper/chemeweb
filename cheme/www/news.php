@@ -68,66 +68,11 @@
 		
 		<p>Welcome to our news page. Here you will find all about what is happening in 
 		Chemical Engineering. If you would like to see more information, please hold your mouse over a link.</p>
-		<div id="publications" class="display-news-item" style="display:none">
-					<ul id="items" style="list-style-type:none"> 
-							<li>
-								<img src="images/news/awards.jpg" width="220" height="157" alt=""/>
-								<h3><a href="recentpublications.php">Recent Publications</a></h3>
-								<p>Four different Chemical Engineering 
-									professors have submitted articles that have been accepted for publication.</p>
-						</li>
-			   		</ul>
-		</div>
-		<div id="job" class="display-news-item" style="display:none">
-					<ul id="items" style="list-style-type:none"> 
-						<li>
-							<img src="images/news/jobopening.png" width="246" height="157" alt=""/>
-							<h3><a href="newsitemjobopening.php">Job Opportunity</a></h3>
-							<p>There is a job opening for the opening for the Assistant Project Coordinator in the DIPPR Lab.</p>	
-						</li>
-					</ul>
-		</div>
-		<div id="mit" class="display-news-item" style="display:none">
-					<ul id="items" style="list-style-type:none"> 
-						<li>
-							<img src="images/directory/lecture.jpg" width="209" height="157" alt=""/>
-							<h3><a href="lecture.php">MIT Professor Gives Lecture</a></h3>
-							<p>Doctor Langer
-							 visited BYU campus on February 6 and 7, meeting with faculty and giving two presentations.</p>	
-						</li>
-					</ul>
-		</div>
-		<div id="baxter" class="display-news-item" style="display:none">
-				<ul id="items" style="list-style-type:none"> 
-					<li>
-						<img src="images/directory/baxter.jpg" width="121" height="157" alt=""/>
-						<h3><a href="newsitembaxter.php">Dr. Baxter Receives Lecturer Award</a></h3>
-						<p>Dr. Baxter has received the 2012-13 Lecturer Award.
-	 					This award praises his research accomplishments.</p>	
-					</li>
-				</ul>
-		  </div>
-		<div id="chem513" class="display-news-item" style="display:none">
-		  					<ul id="items" style="list-style-type:none"> 
-		  						<li>
-										<img src="images/news/dna.png"  alt=""/>
-		  					<h3><a href="news.php">Learn About ChE 513 and ME 575</a></h3>
-		  						<p>Click here to find out more about catalog issues with ChE 513 and to learn more about ME 575.</p>
-		  						</li>
-						</ul> 
-		</div>	
-		<div id="newfaculty" class="display-news-item" id="last" style="display:none">	
-			<ul id="items" style="list-style-type:none"> 
-				<li>
-					<img src="images/news/cooknew.jpg" width="121" height="157" alt=""/>
-					<h3><a href="newsitemnewfaculty.php">New Faculty Member</a></h3>
-					<p>We are pleased to announce the arrival of our newest faculty
-				 		member, Doctor Alonzo D. Cook. We are glad you are here!</p>
-				</li>
-			</ul>							
-		</div>
-		
+
 		<ul>
+			<li><a href="newsitemnationalconference.php">Grad Student to Present at National Conference</a></li>
+			<li><a href="newsitemtaubetapi.php">Eight Students Win Tau Beta Pi Scholarships</a></li>
+			<li><a href="newsitemsbyumagazine.php">Student highlighted in BYU Magazine</a></li>
 			<li><a href="newsitembundy.php">Dr. Bundy Receives Prestigious Awards</a></li>
 			<li><a href="newsitemdeanallred.php" id="seven">Dean Allred Scholarship Fund</a></li>
 			<li><a href="newsitemchemecar.php" id="seven">BYU ChE Team Wins Car Competition</a></li>

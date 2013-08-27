@@ -108,20 +108,52 @@
  				<h3 style="color:#369">Upcoming Events </h3></a>  
 	 				<ul>
 	 				 				 				
-	 													<li><b>10/11/2013 - ChE Alumni Homecoming Banquet</b>
-	 				 										<br />Clyde Building Lounge, 6 PM<br />
+	 													<li><b>9/3/2013 - First Day of School</b>
 	 				 									</li><br /> 
-														<!-- <li><b>4/26/2013 - Mark Laney Party</b>
-		 				 										<br />Smith Fieldhouse, 11 AM<br />
-		 				 								</li><br /> -->
+														<li><b>9/24/2013 - AIChE Recruiting Breakfast/Resume Workshop</b>
+		 				 										<br />Location TBA, 8-11 AM<br />
+		 				 								</li><br />
+		 				 								<li><b>9/25/2013 - AIChE Rotational Dinner</b>
+		 				 										<br />Location TBA, 7 PM<br />
+		 				 								</li><br />
+		 				 								<li><b>9/26/2013 - STEM Fair</b>
+		 				 										<br />WSC Ballroom, 9 AM - 3 PM<br />
+		 				 								</li><br />
 		 				 										
 			  	</ul>
 </div> <!-- end upcomingevents -->
 </div> <!-- end calendar -->
 	<a href="news.php"><h2 style="color:#369">News</h2></a>
 <!-- NEWS CONTAINER -->
-<div id="news-container">
-			<div class="news-item" id="current">	
+<div id="news-container">	
+		   <div  class="news-item" id="current">
+					<ul id="items" style="list-style-type:none"> 
+												<li>
+													<img src="images/news/nationalconferencesmall.jpg" width="246" height="157" alt=""/>
+													<h3><a href="newsitemnationalconference.php">Grad Student to Present at National Conference</a></h3>
+													<p>Kamyar Keyvanloo will present three papers at an AIChE Conference.</p>
+												</li>
+											</ul>
+			</div>
+			<div  class="news-item omega">
+					<ul id="items" style="list-style-type:none"> 
+												<li>
+													<img src="images/news/taubetapismall.jpg" width="246" height="157" alt=""/>
+													<h3><a href="newsitemtaubetapi.php">Eight Ch En Students Win Tau Beta Pi Scholarships</a></h3>
+													<p>Eighteen national scholarships were awarded to BYU students.</p>
+												</li>
+											</ul>
+			</div>
+			<div  class="news-item omega"  style="display:none">
+					<ul id="items" style="list-style-type:none"> 
+												<li>
+													<img src="images/news/byumagazinesmall.jpg" width="246" height="157" alt=""/>
+													<h3><a href="newsitemsbyumagazine.php">Ch En Student Highlighted in BYU Magazine</a></h3>
+													<p>Anna Katz Hawes was recently mentioned in BYU's Alumni Magazine.</p>
+												</li>
+											</ul>
+			</div>
+			<div class="news-item omega" style="display:none">	
 											<ul id="items" style="list-style-type:none"> 
 												<li>
 													<img src="images/news/bundysmall.jpg" width="246" height="157" alt=""/>
@@ -130,7 +162,7 @@
 												</li>
 											</ul>
 			</div>
-			<div  class="news-item omega">
+			<!-- <div  class="news-item omega"  style="display:none">
 					<ul id="items" style="list-style-type:none"> 
 												<li>
 													<img src="images/news/uav.jpg" width="246" height="157" alt=""/>
@@ -148,27 +180,7 @@
 									professors have submitted articles that have been accepted for publication.</p>
 						</li>
 			   		</ul>
-			</div>
-			<div class="news-item omega" style="display:none">
-				<ul id="items" style="list-style-type:none"> 
-					<li>
-						<img src="images/directory/baxter.jpg" width="121" height="157" alt=""/>
-						<h3><a href="newsitembaxter.php">Dr. Baxter Receives Lecturer Award</a></h3>
-						<p>Dr. Baxter has received the 2012-13 Lecturer Award.
-	 					This award praises his research accomplishments.</p>	
-					</li>
-				</ul>
-		  </div>
-		<div class="news-item omega" id="last" style="display:none">
-					<ul id="items" style="list-style-type:none"> 
-						<li>
-							<img src="images/directory/lecture.jpg" width="209" height="157" alt=""/>
-							<h3><a href="lecture.php">MIT Professor Gives Lecture</a></h3>
-							<p>Doctor Langer
-							 visited BYU campus on February 6 and 7, meeting with faculty and giving two presentations.</p>	
-						</li>
-					</ul>
-		</div>	
+			</div> -->
 			<!-- <div class="news-item omega" id="last" style="display:none">	
 												<ul id="items" style="list-style-type:none"> 
 													<li>
