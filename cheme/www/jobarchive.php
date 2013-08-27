@@ -85,7 +85,8 @@ header("Location: http://cheme.byu.edu/authenticate.php");
 	</div> -->
 		<div id="main-content" style="width:620px;">
 <h2>Past Internships/Job Offers</h2>
-	<p>Below you will find a list of internships/job offers that have been given to students in the past.</p>
+	<p>Below you will find a list of internships/job offers that have been given to students in the past. Please do not 
+		share with other students who are not ChemE.</p>
  <!-- <?php getJobArchive($connection); ?> --><!-- this queries for l3 competencies and displays it in a table -->
 <a href="BYUEmployersDatabase.xlsx">List of Companies that Have Hired or Solicited for Hire BYU Chemical Engineers</a>
 </div>
