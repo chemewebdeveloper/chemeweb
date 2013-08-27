@@ -9,7 +9,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 <?php
-	$pageTitle = "Job Opportunities | Chemical Engineering";
+	$pageTitle = "How to Find an Entry Level ChE Position or Internship | Chemical Engineering";
 
 	$pageDescription = "";
 
@@ -46,9 +46,9 @@
 		<div id="breadcrumb">
 				<div id="breadcrumb-home"><a href="index.php"><img alt="home" src="template/img/home.png"></a>
 					</div>
-			| <a href="newmajorreqs.php">Undergraduate</a> | Job Opportunities</div>
+			| <a href="newmajorreqs.php">Undergraduate</a> | How to Find an Entry Level ChE Position or Internship</div>
 		<div id="title">
-		<h1>Job Opportunities</h1>
+		<h1>How to Find an Entry Level ChE Position or Internship</h1>
 		</div>
 		<hr />
 
@@ -57,41 +57,65 @@
 		?>
 	</div>
 		<div id="main-content" style="width:620px;">
-			<p><span class="first">T</span>he combination of knowledge about  process engineering, math,
-			and chemistry obtained in the chemical engineering  curriculum is a versatile preparation 
-			that opens a wide variety of opportunities  to graduates. This versatility is one reason why
-			chemical engineers have  traditionally been among the highest paid professionals in the engineering
-			and science disciplines.</p> <p><img class="personel" nosave="" src="images/undergrad/Refinery.JPG" alt="" 
-			align="right" height="157" width="210" /></p> <p><span class="first">C</span>hemical engineers  make a 
-			significant difference in our quality of life. Some develop clean,  new energy sources to power society.
-			Some develop and produce fertilizers  and other agricultural chemicals to assist in feeding mankind.
-			Virtually  all pharmaceuticals are produced by chemical engineers to enhance the life  of millions. 
-			Others study and produce biomedical devices and artificial  organs. Still others are involved in development
-			and production of new  materials for use in new high-tech products.</p> <p><span>T</span>he petroleum 
-			industry is one of the largest employers of chemical engineers, requiring their expertise forthe discovery, production, and refining of petrochemicals 
-			including fuels, chemicals, and oils.</p> <p><span class="first">E</span>ngineers produce chemicals ranging in use from  cleaning products to medicines and from
-			man-made fibers for clothing and textiles  to plastics for construction and consumer goods.</p> <p><span class="first">M</span>any
-			chemical engineers are employed in environmentally related positions,  working on ways to improve air and water quality, 
-			to reduce acid rain and  smog, and to recycle and reduce garbage. Additionally, chemical engineers  are employed by universities
-			as teachers and researchers and by government  agencies to provide answers for energy, environmental, and defense concerns. 
-			Chemical engineers also train to work in the medical, business, and legal  professions.</p> <p><img alt="" nosave=""src="images/undergrad/refine.jpg"
-			align="left" height="158" width="210" style="margin-right:10px" />  <span class="first">A</span>lthough chemical engineering career opportunities are diverse,
-			job functions  can be categorized more easily. Chemical engineers are usually involved  in research, design, development, production,
-			technical sales, or management.</p> <p><span class="first">I</span>n research, they develop new ideas, new products, and new ways to
-			produce  existing products more economically and with less environmental impact.  In design, they create the processes that convert
-			raw materials into finished  products with emphasis on efficiency, safety, consumer needs, and environmental  protection. The development
-			engineer improves existing processes and technology  to better meet changing needs. Production engineering involves processes  and operations.
-			Management and technical sales involve decision making  with regard to consumer needs and technical capabilities. Chemical engineers  are creative problem solvers.
-			Their careers are rewarding not only from  an intellectual and financial view, but also from a personal perspective.  Their solutions 
-			provide a better lifestyle for mankind.</p> <div align="center"> <object height="344" width="425"><param value="http://www.youtube.com/v/P3B4ocfAXRw&amp;hl=en&amp;fs=1"
-			name="movie" /><param value="true" name="allowFullScreen" /><param value="always" name="allowscriptaccess" /><embed allowfullscreen="true"
-			allowscriptaccess="always" type="application/x-shockwave-flash" src="http://www.youtube.com/v/P3B4ocfAXRw&amp;hl=en&amp;fs=1" height="344" width="425"></embed></object></div><br /> 
-			<div align="center"><object height="344" width="425"><param value="http://www.youtube.com/v/QzB6EzGjFjE&amp;hl=en&amp;fs=1" name="movie" /><param value="true" name="allowFullScreen" />
-			<param value="always" name="allowscriptaccess" /><embed allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash"
-			src="http://www.youtube.com/v/QzB6EzGjFjE&amp;hl=en&amp;fs=1" height="344" width="425"></embed></object></div><br />  
-			<div align="center"><object height="344" width="425"><param value="http://www.youtube.com/v/Bqz1x33j2Zg&amp;hl=en&amp;fs=1" name="movie" /><param value="true" 
-			name="allowFullScreen" /><param value="always" name="allowscriptaccess" /><embed allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash"
-			src="http://www.youtube.com/v/Bqz1x33j2Zg&amp;hl=en&amp;fs=1" height="344" width="425"></embed></object></div>
+			<h2>6 Step Guide: Successful Strategies for Finding a ChE Entry Level Position or Internship</h2></p>
+
+<p>(Compiled advice from BYU ChE faculty and alumni)</p>
+
+<p><a href="#identify">1: Identify companies you would like to apply to</a></p> 
+
+<p><a href="#find">2: Find contacts to help you apply at these companies</a></p> 
+
+<p><a href="#prepare">3: Prepare & Optimize Resume</a></p>
+
+<p><a href="#apply">4: Apply for Entry Level Position or Internships</a></p> 
+
+<p><a href="#follow-up">5 & 6: Follow-up & Interviews Preparation</a></p> 
+
+<h2><a name="identify">1: Identify Companies</a></h2>
+	<ul>
+		<li>What subfield of Chemical Engineering are you interested in? </li>
+			<ul>
+				<li><a href="http://www.aiche.org/community/students/career-resources-k-12-students-parents/what-do-chemical-engineers-do">AIChE</a> has a nice intro to the different fields.</li>
+				<li><a href="http://en.wikipedia.org/wiki/Chemical_engineering">Wikipedia</a> provides a nice list of fields under related fields and topics.</li>
+				<li><a href=""></a>BYU</li>
+			</ul>
+		
+		<li><a href="jobarchive.php">Check out a list of companies</a> who have hired BYU Chemical Engineers (you will need to sign in with your myBYU username and password).</li>
+		<li><a href="http://www.aiche.org/resources/careers">Check out</a> the resources at the AIChE site (national undergraduate student membership is free). </li>
+		<li><a href="http://www.et.byu.edu/career-fair-companies-attending-student-web-view">Check out</a> the companies scheduled to attend the career fair.</li>
+		<li>Other resources include the Engineering and Technology <a href="http://www.et.byu.edu/jobs-internships ">college career center</a> and <a href="https://ccc.byu.edu/">university career center.</a></li>
+	</ul>
+<h2><a name="find">2: Find Contacts</a></h2>
+	<li>Brainstorm if someone you know, or someone your relatives or friends know works there.  Talk to family/friends to try and find someone you know at one of the companies you are interested in.  A contact/advocate helps out immensely. </li>
+	<li>Go to <a href="http://www.et.byu.edu/career-fair-information-0">Career Fair</a> and meet recruiters.</li>
+	<li>Consider join BYU Chemical Engineering Alumni <a href="http://www.linkedin.com/groups/BYU-Chemical-Engineering-Alumni-144032/about">Linkedin Group</a> and asking there.</li>
+	<li>Search BYU <a href="http://alumni.byu.edu/s/1085/03-provo-alumni/templates/interior.aspx?gid=7&pgid=348 ">Alumni Database.</a> (click on the small directory hyperlink, log in using your BYU netid and password, under advanced search you can specify major and company).</li>
+	<li>Talk with your BYU ChE Advisor for contacts</li>
+<h2><a name="prepare">3: Resume Optimization</a></h2>
+	<li>Prepare a resume that is professional and adequately sells you to the company.  </li>
+	<li>Check out BYU ChE online guides:</li>
+		<ul>
+			<li><a href="http://chemicalengineering.byu.edu/resumechecklist.php">Resume Checklist</a></li>
+			<li><a href="http://chemicalengineering.byu.edu/dowresumeguide.php">Dow Resume Guide</a></li>
+			<li><a href="http://chemicalengineering.byu.edu/intelresumeguide.php ">Intel Resume Guide</a></li>
+			<li><a href="http://www.et.byu.edu/resumes">Resumes</a></li>
+		</ul>
+	<li>See ChE 191 class notes</li>
+	<li>See examples from <a href="http://careerengineer.aiche.org/home/home.cfm?site_id=1932"> AIChE.</a></li>
+	<li>Be aware of resume help from the college (around the time of the career fair) and from our local chapter of AIChE.</li>
+<h2><a name="apply">4: Apply for Entry Level Position or Internships</a></h2>
+	<li>Sign up for <a href="https://ucs.byu.edu/">eRecruiting.</a></li>
+	<li><a href="http://saas.byu.edu/intern/">Check out</a> this internship office for resources on internships.</li>
+	<li><a href="http://chemicalengineering.byu.edu/internships.php">Check out </a> department and college info on internships.</li>
+	<li>Apply directly to interested companies and follow up with your contacts/HR.</li>
+	<li>Go to career fair with <a href="https://ucs.byu.edu/">resume prepared.</a></li>
+<h2><a name="follow-up">5 & 6: Follow up & Interviews</a></h2>
+	<li>Follow-up consistently with contact and/or HR on your application.  Be persistent and polite.  </li>
+	<li>Be sure to practice following-up and interviews before you do it.</li>
+	<li>The university has excellent resources and <a href="https://ucs.byu.edu/students/interviewing">video guides.</a></li>
+	<li>College interviewing <a href="http://www.et.byu.edu/interview">advice.</a></li>
+	
+	<p>Note: The earlier you start the better.  Following these steps does not guarantee an internship, but helps you give yourself the best chance.</p>
 </div>
 </div>
 

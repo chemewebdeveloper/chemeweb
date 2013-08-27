@@ -87,6 +87,7 @@
 						<li> <a href="">Department</a>
 						<div class="sub">
 						<ul class="links">
+										<li><a href="welcome.php">Welcome</a></li>
 										<li><a href="History.php">About</a></li>
 										<li><a href="Faculty.php">Faculty</a></li>
 										<li><a href="Staff.php">Staff</a></li>
@@ -99,7 +100,7 @@
 										<li><a href="visitus.php">Visit Us</a></li>	
 										<li><a href="raapplication.php">RA Application</a></li>		
 										<li><a href="taapplication.php">TA Application</a></li>	 
-										<li><a href="jobarchive.php">Job Archive</a></li>
+										<li><a href="jobarchive.php">Company Database</a></li>
 						</ul>
 					</div>
 				</li> 
@@ -133,7 +134,7 @@
 										<li><a href="programdeadlines.php">Program Deadlines</a></li>
 										<li><a href="internships.php">Internships</a></li>
 										<li><a href="planningamission.php">Planning a Mission?</a></li>
-										<li><a href="jobs.php">Job Opportunities</a></li>
+										<li><a href="jobs.php">How to Find an Entry Level ChE Position or Internship</a></li>
 										<li><a href="programapplication.php">Program Application</a></li>
 										<li><a href="scholarships.php">Scholarships</a></li>
 										<li><a href="returnedmissionary.php">Returned Missionaries</a></li>		

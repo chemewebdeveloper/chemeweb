@@ -93,6 +93,7 @@
 <div id="quicklinks"><br />
 			<h3 style="color:#369">Quick Links</h3>			
 				<ul id="quicklink">
+					<li><a href="welcome.php">Welcome</a></li>
 					<li><a href="Faculty.php">Faculty</a></li>
 					<li><a href="majorrequirements.php">Major Requirements</a></li>
 					<li><a href="whychemgrad.php">Prospective Graduate Students</a></li>
