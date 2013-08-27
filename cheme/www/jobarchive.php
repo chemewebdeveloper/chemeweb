@@ -32,7 +32,7 @@ header("Location: http://cheme.byu.edu/authenticate.php");
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 <?php
-	$pagename = "Job Archive";
+	$pagename = "Company Database";
 	$pageTitle = $pagename . " | Chemical Engineering";
 
 	$pageDescription = "";
