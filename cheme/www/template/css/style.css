@@ -249,7 +249,7 @@ dd { padding: 0 0 .75em 1em }
 }
 
 nav ul { list-style: none; }
-nav > ul > li { float: left;opacity: .95 }
+nav > ul > li { float: left;opacity: .93 }
 nav li .sub { 
 	box-shadow: 0 1px 8px rgba(0,0,0,0.7); 
 	-moz-box-shadow: 0 1px 8px rgba(0,0,0,0.7); 

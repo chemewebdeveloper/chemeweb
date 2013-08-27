@@ -72,7 +72,6 @@
 <p><a href="#follow-up">5 & 6: Follow-up & Interviews Preparation</a></p> 
 
 <h2><a name="identify">1: Identify Companies</a></h2>
-	<ul>
 		<li>What subfield of Chemical Engineering are you interested in? </li>
 			<ul>
 				<li><a href="http://www.aiche.org/community/students/career-resources-k-12-students-parents/what-do-chemical-engineers-do">AIChE</a> has a nice intro to the different fields.</li>
@@ -84,7 +83,6 @@
 		<li><a href="http://www.aiche.org/resources/careers">Check out</a> the resources at the AIChE site (national undergraduate student membership is free). </li>
 		<li><a href="http://www.et.byu.edu/career-fair-companies-attending-student-web-view">Check out</a> the companies scheduled to attend the career fair.</li>
 		<li>Other resources include the Engineering and Technology <a href="http://www.et.byu.edu/jobs-internships ">college career center</a> and <a href="https://ccc.byu.edu/">university career center.</a></li>
-	</ul>
 <h2><a name="find">2: Find Contacts</a></h2>
 	<li>Brainstorm if someone you know, or someone your relatives or friends know works there.  Talk to family/friends to try and find someone you know at one of the companies you are interested in.  A contact/advocate helps out immensely. </li>
 	<li>Go to <a href="http://www.et.byu.edu/career-fair-information-0">Career Fair</a> and meet recruiters.</li>
