@@ -57,7 +57,7 @@
 		?>
 	</div>
 		<div id="main-content" style="width:620px;">
-			<h2>6 Step Guide: Successful Strategies for Finding a ChE Entry Level Position or Internship</h2></p>
+			<h2>5 Step Guide: Successful Strategies for Finding a ChE Entry Level Position or Internship</h2></p>
 
 <p>(Compiled advice from BYU ChE faculty and alumni)</p>
 
@@ -69,7 +69,7 @@
 
 <p><a href="#apply">4: Apply for Entry Level Position or Internships</a></p> 
 
-<p><a href="#follow-up">5 & 6: Follow-up & Interviews Preparation</a></p> 
+<p><a href="#follow-up">5: Follow-up & Interviews Preparation</a></p> 
 
 <h2><a name="identify">1: Identify Companies</a></h2>
 		<li>What subfield of Chemical Engineering are you interested in? </li>
@@ -79,16 +79,16 @@
 				<li><a href=""></a>BYU</li>
 			</ul>
 		
-		<li><a href="jobarchive.php">Check out a list of companies</a> who have hired BYU Chemical Engineers (you will need to sign in with your myBYU username and password).</li>
+		<li><a href="jobarchive.php">Check out a list of companies</a> who have hired BYU Chemical Engineers (you will need to sign in with your myBYU username and password) and then come back to this page from the main page and reclick on the link - sorry for the extra steps.</li>
 		<li><a href="http://www.aiche.org/resources/careers">Check out</a> the resources at the AIChE site (national undergraduate student membership is free). </li>
 		<li><a href="http://www.et.byu.edu/career-fair-companies-attending-student-web-view">Check out</a> the companies scheduled to attend the career fair.</li>
-		<li>Other resources include the Engineering and Technology <a href="http://www.et.byu.edu/jobs-internships ">college career center</a> and <a href="https://ccc.byu.edu/">university career center.</a></li>
+		<li>Other resources include the Engineering and Technology <a href="http://www.et.byu.edu/career-services/career-services">college career center</a> and <a href="https://ccc.byu.edu/">university career center.</a></li>
 <h2><a name="find">2: Find Contacts</a></h2>
 	<li>Brainstorm if someone you know, or someone your relatives or friends know works there.  Talk to family/friends to try and find someone you know at one of the companies you are interested in.  A contact/advocate helps out immensely. </li>
-	<li>Go to <a href="http://www.et.byu.edu/career-fair-information-0">Career Fair</a> and meet recruiters.</li>
+	<li>Go to <a href="http://www.et.byu.edu/career-services/career-fair">Career Fair</a> and meet recruiters.</li>
 	<li>Consider join BYU Chemical Engineering Alumni <a href="http://www.linkedin.com/groups/BYU-Chemical-Engineering-Alumni-144032/about">Linkedin Group</a> and asking there.</li>
 	<li>Search BYU <a href="http://alumni.byu.edu/s/1085/03-provo-alumni/templates/interior.aspx?gid=7&pgid=348 ">Alumni Database.</a> (click on the small directory hyperlink, log in using your BYU netid and password, under advanced search you can specify major and company).</li>
-	<li>Talk with your BYU ChE Advisor for contacts</li>
+	<li>Talk with your BYU ChE Advisor for contacts (ask ChE secretaries who it is if necessary).</li>
 <h2><a name="prepare">3: Resume Optimization</a></h2>
 	<li>Prepare a resume that is professional and adequately sells you to the company.  </li>
 	<li>Check out BYU ChE online guides:</li>
@@ -96,7 +96,7 @@
 			<li><a href="http://chemicalengineering.byu.edu/resumechecklist.php">Resume Checklist</a></li>
 			<li><a href="http://chemicalengineering.byu.edu/dowresumeguide.php">Dow Resume Guide</a></li>
 			<li><a href="http://chemicalengineering.byu.edu/intelresumeguide.php ">Intel Resume Guide</a></li>
-			<li><a href="http://www.et.byu.edu/resumes">Resumes</a></li>
+			<li><a href="http://www.et.byu.edu/career-services/resumes">Resumes</a></li>
 		</ul>
 	<li>See ChE 191 class notes</li>
 	<li>See examples from <a href="http://careerengineer.aiche.org/home/home.cfm?site_id=1932"> AIChE.</a></li>
@@ -107,11 +107,11 @@
 	<li><a href="http://chemicalengineering.byu.edu/internships.php">Check out </a> department and college info on internships.</li>
 	<li>Apply directly to interested companies and follow up with your contacts/HR.</li>
 	<li>Go to career fair with <a href="https://ucs.byu.edu/">resume prepared.</a></li>
-<h2><a name="follow-up">5 & 6: Follow up & Interviews</a></h2>
+<h2><a name="follow-up">5: Follow up & Interviews</a></h2>
 	<li>Follow-up consistently with contact and/or HR on your application.  Be persistent and polite.  </li>
 	<li>Be sure to practice following-up and interviews before you do it.</li>
 	<li>The university has excellent resources and <a href="https://ucs.byu.edu/students/interviewing">video guides.</a></li>
-	<li>College interviewing <a href="http://www.et.byu.edu/interview">advice.</a></li>
+	<li>College interviewing <a href="http://www.et.byu.edu/career-services/interviews">advice.</a></li>
 	
 	<p>Note: The earlier you start the better.  Following these steps does not guarantee an internship, but helps you give yourself the best chance.</p>
 </div>

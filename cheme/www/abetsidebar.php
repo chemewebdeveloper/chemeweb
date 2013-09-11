@@ -11,4 +11,4 @@
 		<li><a href="https://learningoutcomes.byu.edu">Indirect Assessment Measurements</a></li>
 		<li><a href="https://learningoutcomes.byu.edu">Student Outcomes</a></li>
 		<li><a href="History.php">Department Mission</a></li>
-		</ul>
+		</ul> 
