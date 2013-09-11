@@ -108,8 +108,6 @@
  				<h3 style="color:#369">Upcoming Events </h3></a>  
 	 				<ul>
 	 				 				 				
-	 													<li><b>9/3/2013 - First Day of School</b>
-	 				 									</li><br /> 
 														<li><b>9/24/2013 - AIChE Recruiting Breakfast/Resume Workshop</b>
 		 				 										<br />Location TBA, 8-11 AM<br />
 		 				 								</li><br />
