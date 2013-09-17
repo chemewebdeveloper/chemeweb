@@ -151,15 +151,7 @@
 												</li>
 											</ul>
 			</div>
-			<div class="news-item omega" style="display:none">	
-											<ul id="items" style="list-style-type:none"> 
-												<li>
-													<img src="images/news/bundysmall.jpg" width="246" height="157" alt=""/>
-													<h3><a href="newsitembundy.php">Dr. Bundy Receives Prestigious Awards</a></h3>
-													<p>Congratulations to Dr. Bundy on his NSF Career and DARPA Young Investigator awards.</p>
-												</li>
-											</ul>
-			</div>
+
 			<!-- <div  class="news-item omega"  style="display:none">
 					<ul id="items" style="list-style-type:none"> 
 												<li>
