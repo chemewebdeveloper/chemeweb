@@ -108,7 +108,7 @@
  				<h3 style="color:#369">Upcoming Events </h3></a>  
 	 				<ul>
 	 				 				 				
-														<li><b>9/24/2013 - AIChE Recruiting Breakfast/Resume Workshop</b>
+														<!-- <li><b>9/24/2013 - AIChE Recruiting Breakfast/Resume Workshop</b>
 		 				 										<br />Location TBA, 8-11 AM<br />
 		 				 								</li><br />
 		 				 								<li><b>9/25/2013 - AIChE Rotational Dinner</b>
@@ -116,7 +116,7 @@
 		 				 								</li><br />
 		 				 								<li><b>9/26/2013 - STEM Fair</b>
 		 				 										<br />WSC Ballroom, 9 AM - 3 PM<br />
-		 				 								</li><br />
+		 				 								</li><br /> -->
 		 				 										
 			  	</ul>
 </div> <!-- end upcomingevents -->
