@@ -104,7 +104,7 @@
 					<li><a href="http://uolab.groups.et.byu.net/">UO Lab</a></li>	
 				</ul><br />
 <!-- UPCOMING EVENTS -->
-<div id="upcomingevents"><!-->change<!-->
+<div id="upcomingevents">
  				<h3 style="color:#369">Upcoming Events </h3></a>  
 	 				<ul>
 	 				 				 				
