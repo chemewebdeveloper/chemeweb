@@ -8,9 +8,17 @@
 <meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-<?php
+ <?php
+ 
+ //Steps for making a web Page
+ 
+// 1)Change the Page name page
+ //2)Add the content
+ 
+ 
+    //This section is for page name, page title, specific css to this page, and keywords for google
 
-	$pageName = "Page Template";
+	$pageName = "Template";
 
 	$pageTitle =  $pageName . " " . "| Chemical Engineering";
 
@@ -33,38 +41,35 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<!-- Insert plugin stylesheets here -->
-	<link rel="stylesheet" href="template/js/plugins/shadowbox/shadowbox.css" />
-	<script src="template/js/plugins/shadowbox/shadowbox.js"></script>
 	
 
 	<link rel="shortcut icon" href="template/img/favicon.ico" />
 	<link rel="stylesheet" href="template/css/style.css" />
-	<script src="template/js/libs/jquery-1.7.2.js"></script>
-	
 
 	<?php include 'header.php';
 
 	// Embedded styles
 	 echo $embeddedCSS; ?>
-
 	</head>
 	<div id="content" class="wrapper two-sidebars clearfix">
-		<div id="breadcrumb">
+				<div id="breadcrumb">
 				<div id="breadcrumb-home"><a href="index.php"><img alt="home" src="template/img/home.png"></a>
 					</div>
-			| <a href="alumnisociety.php">Alumni & Friends</a> | <?php echo $pageName?></div>
-		<div id="title">
+			| <a href="History.php">Department</a> | <?php echo $pageName;?></div>
+			<div id="title">
 		<h1><?php echo $pageName?></h1>
-		</div>
+			</div>
 		<hr />
 
 	<div class="sidebar">
-		<?php include 'alumnisidebar.php'
+		<!-- ADD SIDEBAR IF NECESSARY. THEY ARE NAMED LIKE THEIR TAB, EXAMPLE: departmentsidebar.php, undergraduatesidebar.php-->
+		<?php include 'departmentsidebar.php'
 		?>
-	</div>
+	</div><br />
 		<div id="main-content" style="width:620px;">
-		
-		
+			
+				<p>Awesome Content.</p>
+
 </div>
 </div>
 
@@ -81,7 +86,6 @@
 
 	<!-- PLUGINS -->
 	<script src="template/js/plugins/sidebarsize.js"></script>
-	<script src="template/js/plugins/shadowbox/shadowboxplayer.js"></script>
 
 
 </body>

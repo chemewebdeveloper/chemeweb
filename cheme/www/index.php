@@ -124,7 +124,7 @@
 	<a href="news.php"><h2 style="color:#369">News</h2></a>
 <!-- NEWS CONTAINER -->
 <div id="news-container">	
-		   <div  class="news-item" id="current">
+		   <div  class="news-item" id="current"><!--MAKE SURE THE FIRST NEWS ITEM ALWAYS HAS ID-CURRENT-->
 					<ul id="items" style="list-style-type:none"> 
 												<li>
 													<img src="images/news/nationalconferencesmall.jpg" width="246" height="157" alt=""/>
@@ -142,7 +142,7 @@
 												</li>
 											</ul>
 			</div>
-			<div  class="news-item omega"  style="display:none">
+			<div  class="news-item omega"  style="display:none"><!--	 YOU CAN HIDE A DIV BY TYPING STYLE="DISPLAY:NONE"-->
 					<ul id="items" style="list-style-type:none"> 
 												<li>
 													<img src="images/news/byumagazinesmall.jpg" width="246" height="157" alt=""/>
