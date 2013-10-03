@@ -123,8 +123,19 @@
 </div> <!-- end calendar -->
 	<a href="news.php"><h2 style="color:#369">News</h2></a>
 <!-- NEWS CONTAINER -->
-<div id="news-container">	
-		   <div  class="news-item" id="current"><!--MAKE SURE THE FIRST NEWS ITEM ALWAYS HAS ID-CURRENT-->
+<div id="news-container">
+	 	   <div  class="news-item" id="current"><!--MAKE SURE THE FIRST NEWS ITEM ALWAYS HAS ID-CURRENT-->
+					<ul id="items" style="list-style-type:none"> 
+												<li>
+													<img src="images/news/facultyResearchOpening_byuLogo_small.png" width="246" height="157" alt=""/>
+													<h3><a href="newsitemfacultyresearchopening.php">New Faculty Position Opening
+													</p></a>
+														<p> We are excited to announce a new faculty position opening.  Click the link above for more details.
+														</p>
+												</li>
+											</ul>
+		   </div>	
+		   <div  class="news-item omega">
 					<ul id="items" style="list-style-type:none"> 
 												<li>
 													<img src="images/news/nationalconferencesmall.jpg" width="246" height="157" alt=""/>
@@ -133,8 +144,8 @@
 												</li>
 											</ul>
 			</div>
-			<div  class="news-item omega">
-					<ul id="items" style="list-style-type:none"> 
+			<div  class="news-item omega" style="display:none">
+					<ul id="items" style="list-style-type: none"> 
 												<li>
 													<img src="images/news/taubetapismall.jpg" width="246" height="157" alt=""/>
 													<h3><a href="newsitemtaubetapi.php">Eight Ch En Students Win Tau Beta Pi Scholarships</a></h3>

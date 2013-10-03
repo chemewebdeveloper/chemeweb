@@ -70,6 +70,7 @@
 		Chemical Engineering. If you would like to see more information, please hold your mouse over a link.</p>
 
 		<ul>
+			<li><a href="newsitemfacultyresearchopening.php">New Faculty Position Opening</a></li>
 			<li><a href="newsitemnationalconference.php">Grad Student to Present at National Conference</a></li>
 			<li><a href="newsitemtaubetapi.php">Eight Students Win Tau Beta Pi Scholarships</a></li>
 			<li><a href="newsitemsbyumagazine.php">Student highlighted in BYU Magazine</a></li>
